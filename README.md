@@ -1,5 +1,3 @@
-### Hi there 👋🏻
-
 ## Hi 👋🏻, 
 I'm Mig Tam, I'm a full-stack developer 👨🏻‍💻 who is passionate about coding and sharing my work.
 
